@@ -7,7 +7,7 @@
 ###
 
 <div align="left">
-  <img height="200" src="https://tenor.com/pt-BR/view/corvax-muzzy-in-gondoland-computer-i've-got-a-computer-gif-4562372803980414816"  />
+  <img height="200" src="corvax-muzzy-em-gondoland.gif" />
 </div>
 
 ###
