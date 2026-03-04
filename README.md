@@ -48,7 +48,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&reversal=true&fontSize=70&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=00C9A7"  />
+  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&reversal=true&fontSize=70&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=707070,000000" />
 </div>
 
 ###
