@@ -2,6 +2,8 @@
 
 ###
 
+<a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+my+name+is+Angelina+Argentieri;I'm+17+years+old;Be+welcome!+%3A)" alt="Typing SVG" /></a>
+
 <h3 align="left">👩‍💻  𝑻𝒉𝒆 𝒈𝒊𝒓𝒍 𝒊𝒏 𝒖𝒓 𝒄𝒐𝒎𝒑 𝒔𝒄𝒊' 𝒄𝒍𝒂𝒔𝒔</h3>
 
 ###
