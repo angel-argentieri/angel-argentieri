@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm Angelina Argentieri <br><br>- 🔭 Studying Systems Analysis and Development<br>- It works on my machine.</p>
+<p align="left">I'm Angelina Argentieri <br><br>- 🔭 Studying Systems Analysis and Development<br></p>
 
 ###
 
@@ -48,9 +48,8 @@
 </div>
 
 ###
-
 <div>
-  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&reversal=true&fontSize=70&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=gradient&customColorList=2,333333,000000" />
+  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&reversal=true&fontSize=70&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=gradient&customColorList=0,00FF00,0000FF" />
 </div>
 
 ###
